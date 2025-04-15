@@ -73,7 +73,8 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 - 📧 [Email](mailto:himanshigautam29@gmail.com)
 - 🗂 [GitHub Projects](https://github.com/himanshigautam-rgb)
 - 🔗 [Hackerrank](https://www.hackerrank.com/profile/himanshi_gautam)
-- 
+- 📄 [Download My Resume](https://github.com/himanshigautam-rgb/himanshigautam-rgb/raw/main/HimanshiGautamResume.pdf)
+
 
 ---
 
