@@ -12,6 +12,12 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 
 ---
 
+## 🚀 Career Goal
+
+I aim to work as a **Data Analyst or BI Developer**, helping companies make data-driven decisions through actionable dashboards, powerful analysis, and storytelling through data.
+
+---
+
 ## 💼 Featured Projects
 
 ### 📊 [Amazon Sales Analysis using Power BI](https://github.com/himanshigautam-rgb/AMAZON-PowerBI-movie-sales-analysis-)
@@ -21,6 +27,7 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
+![Amazon Dashboard](images/amazon-dashboard.png)
 ---
 
 ### 🌾 [Sugarcane Production Analysis](https://github.com/himanshigautam-rgb/Sugarcane-production-analysis)
@@ -50,12 +57,22 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 
 ---
 
-## 🧠 Skills
+## 🧪 Hackathons & Challenges
 
-**Languages**: Python, SQL  
-**Tools**: Power BI, Excel, Tableau, Jupyter Notebook  
-**Techniques**: Data Cleaning, Regression Analysis, Predictive Modeling, EDA, DAX  
-**Soft Skills**: Problem Solving, Team Collaboration, Presentation, Time Management
+- 🎯 **TCS CodeVita 2024** Participant – Solved algorithmic coding problems
+- 🏆 [Quantium Analytics Virtual Internship (Forage)](https://www.theforage.com/) – Customer segmentation & store trial evaluation using R
+
+---
+
+## 🛠 Technical Skills
+
+| Category                | Tools & Tech                                             |
+|-------------------------|----------------------------------------------------------|
+| 🐍 Programming           | Python (pandas, NumPy, matplotlib), SQL                  |
+| 📊 Visualization         | Power BI, Tableau, Matplotlib, Seaborn                   |
+| 📁 Data Tools            | Excel (Pivot, VLOOKUP), Power Query                      |
+| ⚙️ Data Techniques        | Data Cleaning, EDA, Regression, Forecasting              |
+| 💡 Soft Skills           | Problem-Solving, Communication, Teamwork, Presentation   |
 
 ---
 
@@ -64,6 +81,24 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 - ✅ [AWS Cloud Practitioner – Credly Badge](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url)
 - 📊 Data Analytics Course – ICT Academy & Infosys (Aug–Sep 2024)
 - 🤖 AI & Machine Learning Internship – EduSkills (Jul–Sep 2024)
+
+---
+
+## 🏅 Certifications
+
+- ✅ [AWS Certified Cloud Practitioner – Credly Badge](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url) (July 2024)
+- 📊 Infosys + ICT Academy Data Analytics Course (Aug–Sep 2024)
+- 🤖 AI/ML Internship – EduSkills (Jul–Sep 2024)
+
+---
+
+## 📸 Sample Dashboards & Visuals
+
+| Project                     | Preview                          |
+|----------------------------|----------------------------------|
+| Amazon Sales (Power BI)    | ![Amazon](images/amazon-dashboard.png) |
+| Sugarcane Analysis (Python)| ![Sugarcane](images/sugarcane-plot.png) |
+| Black Friday EDA           | ![BlackFriday](images/blackfriday-chart.png) |
 
 ---
 
