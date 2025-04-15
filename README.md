@@ -57,6 +57,18 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
+### 🧁 [Bakery Sales Analysis (Excel)](https://github.com/himanshigautam-rgb/Bakery-Sales-Excel) *(or update link)*
+
+- 📈 Analyzed daily sales data of a bakery to identify peak hours, popular products, and seasonal trends
+- Used **Pivot Tables**, **VLOOKUP**, and **conditional formatting** for clean insights
+- Built a clean dashboard to display total sales, top 5 products, and hourly performance
+
+![Bakery Dashboard](images/bakery-dashboard.png)
+
+**Tools**: Microsoft Excel, Pivot Tables, Charts, Data Cleaning
+
+---
+
 ## 🧪 Hackathons & Challenges
 
 - 🎯 **TCS CodeVita 2024** Participant – Solved algorithmic coding problems
