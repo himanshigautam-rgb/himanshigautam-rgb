@@ -1,57 +1,80 @@
 # 👋 Hi, I'm Himanshi Gautam
 
-Aspiring Data Analyst | Passionate about finding insights from raw data | Skilled in Python, Excel, Power BI, and SQL
+🎯 Aspiring Data Analyst | Passionate about storytelling through data | Skilled in Power BI, Python, SQL, and Excel  
+📍 B.Tech in Computer Science (2021–2025), MIET, Meerut  
+
 
 ---
 
-## 📂 Featured Projects
+## 🔍 About Me
 
-### 🔹 Quantium Chip Sales Analysis
-- **Goal**: Segment customers & evaluate the impact of a trial store using R
-- **Tools**: R, ggplot2, dplyr
-- **Key Insights**: Trial store 77 showed a significant uplift in sales compared to control
-- [🔗 GitHub Repo](link-to-project)
+I'm a detail-oriented data analyst with hands-on experience in real-world projects involving data wrangling, visualization, and predictive analytics. I enjoy using tools like Power BI, Python, and SQL to uncover insights and help drive data-driven decisions.
 
 ---
 
-### 🔹 Sugarcane Production Analysis
-- **Goal**: Analyze trends in sugarcane production across Indian states
-- **Tools**: Python, pandas, matplotlib
-- **Key Insights**: State X showed 30% YoY growth, weather played a major role
-- [🔗 GitHub Repo](link-to-project)
+## 💼 Featured Projects
+
+### 📊 [Amazon Sales Analysis using Power BI](https://github.com/himanshigautam-rgb/AMAZON-PowerBI-movie-sales-analysis-)
+- Explored Amazon sales data to uncover trends in revenue, customer behavior, and product performance.
+- Built interactive dashboards using **Power BI** with custom visuals and slicers.
+- Applied **DAX functions** and created data models to enhance report usability and insights.
+
+**Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
 ---
 
-### 🔹 Power BI Dashboard – Online Retail
-- **Goal**: Visualize revenue trends, top customers, and high-demand products
-- **Tools**: Power BI
-- **Features**: Slicers for countries, product categories, date filters
-- [📸 Screenshot](link-to-image)
-- [🔗 GitHub Files / PBIX](link)
+### 🌾 [Sugarcane Production Analysis](https://github.com/himanshigautam-rgb/Sugarcane-production-analysis)
+- Explored agricultural datasets to analyze sugarcane production trends across regions.
+- Conducted data analysis in **Jupyter Notebook**, visualized patterns using **Matplotlib** and **Seaborn**.
+- Focused on identifying top-performing states and yield improvements.
+
+**Tools**: Python, Pandas, Matplotlib, Seaborn
 
 ---
 
-## 🛠 Skills
+### 🎵 [Music Store Analysis using SQL](https://github.com/himanshigautam-rgb/MusicStoreAnalysis)
+- Analyzed music store data to uncover top-selling artists and revenue by genre.
+- Wrote optimized **SQL queries** to clean and analyze transactional data.
+- Suggested improvements for stock and inventory management.
 
-- **Languages**: Python, R, SQL
-- **Tools**: Power BI, Excel, Tableau
-- **Libraries**: pandas, matplotlib, seaborn, dplyr
-
----
-
-## 📜 Certifications & Achievements
-
-- Google Data Analytics Certificate (Coursera)
-- CodeVita 2024 Participant
-- [Quantium Virtual Internship](https://www.theforage.com/)
+**Tools**: SQL, Data Cleaning, Joins, Subqueries
 
 ---
 
-## 📫 Connect with Me
+### 🛍️ [Black Friday Sales Analysis](https://github.com/himanshigautam-rgb/Black-Friday-Sales-Analysis)
+- Performed EDA on large-scale sales data to identify purchase behavior by customer segments.
+- Built machine learning models to predict user purchases for better targeting.
+- Used **pandas, NumPy, and scikit-learn** for analysis and prediction.
 
-- [LinkedIn](https://www.linkedin.com/in/himanshi-gautam-a390a922a)
-- [Email](mailto:your.email@example.com)
+**Tools**: Python, Pandas, NumPy, Machine Learning
 
 ---
 
-⭐ Feel free to explore my repositories to see more of my work!
+## 🧠 Skills
+
+**Languages**: Python, SQL  
+**Tools**: Power BI, Excel, Tableau, Jupyter Notebook  
+**Techniques**: Data Cleaning, Regression Analysis, Predictive Modeling, EDA, DAX  
+**Soft Skills**: Problem Solving, Team Collaboration, Presentation, Time Management
+
+---
+
+## 📜 Certifications
+
+- ✅ [AWS Cloud Practitioner – Credly Badge](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url)
+- 📊 Data Analytics Course – ICT Academy & Infosys (Aug–Sep 2024)
+- 🤖 AI & Machine Learning Internship – EduSkills (Jul–Sep 2024)
+
+---
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/himanshi-gautam-a390a922a)
+- 📧 [Email](mailto:himanshigautam29@gmail.com)
+- 🗂 [GitHub Projects](https://github.com/himanshigautam-rgb)
+- 🔗 [Hackerrank](https://www.hackerrank.com/profile/himanshi_gautam)
+- 
+
+---
+
+✨ Thanks for visiting! I’m always learning and open to collaboration on exciting data projects!
