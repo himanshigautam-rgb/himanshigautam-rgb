@@ -27,7 +27,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
-#### ![Amazon Dashboard]<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300"/>
+#### <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="400"/>
 
 
 ---
@@ -38,7 +38,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - Focused on identifying top-performing states and yield improvements.
 
 **Tools**: Python, Pandas, Matplotlib, Seaborn
-
+####  <img src = "https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane1.png"alt="SugarcaneAnalysis" width="400"/>
 ---
 
 ### 🎵 [Music Store Analysis](https://github.com/himanshigautam-rgb/MusicStoreAnalysis)
