@@ -20,7 +20,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ## 💼 Featured Projects
 
-### 📊 [Amazon Sales Analysis using Power BI](https://github.com/himanshigautam-rgb/AMAZON-PowerBI-movie-sales-analysis-)
+### 📊 [Amazon Sales Analysis](https://github.com/himanshigautam-rgb/AMAZON-PowerBI-movie-sales-analysis-)
 - Explored Amazon sales data to uncover trends in revenue, customer behavior, and product performance.
 - Built interactive dashboards using **Power BI** with custom visuals and slicers.
 - Applied **DAX functions** and created data models to enhance report usability and insights.
@@ -39,7 +39,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
-### 🎵 [Music Store Analysis using SQL](https://github.com/himanshigautam-rgb/MusicStoreAnalysis)
+### 🎵 [Music Store Analysis](https://github.com/himanshigautam-rgb/MusicStoreAnalysis)
 - Analyzed music store data to uncover top-selling artists and revenue by genre.
 - Wrote optimized **SQL queries** to clean and analyze transactional data.
 - Suggested improvements for stock and inventory management.
@@ -57,7 +57,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
-### 🧁 [Bakery Sales Analysis (Excel)](https://github.com/himanshigautam-rgb/BakerySalesAnalysis_Excel.git)
+### 🧁 [Bakery Sales Analysis](https://github.com/himanshigautam-rgb/BakerySalesAnalysis_Excel.git)
 
 - 📈 Analyzed daily sales data of a bakery to identify peak hours, popular products, and seasonal trends
 - Used **Pivot Tables**, **VLOOKUP**, and **conditional formatting** for clean insights
@@ -69,7 +69,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
-### 🛒 [E-commerce Sales Analysis (SQL)](https://github.com/himanshigautam-rgb/Ecommerce-Sales-SQL) *(add your link)*
+### 🛒 [E-commerce Sales Analysis](https://github.com/himanshigautam-rgb/E-commerce_Sales.git)
 
 - 📦 Analyzed online sales data to track performance metrics like revenue, order volume, and customer retention
 - Wrote SQL queries using **joins**, **aggregations**, and **window functions** to extract KPIs
