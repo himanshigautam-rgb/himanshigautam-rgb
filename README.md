@@ -142,15 +142,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - 📊 Data Analytics Course – ICT Academy & Infosys (Aug–Sep 2024)
 - 🤖 AI & Machine Learning Internship – EduSkills (Jul–Sep 2024)
 
----
 
-## 📸 Sample Dashboards & Visuals
-
-| Project                     | Preview                          |
-|----------------------------|----------------------------------|
-| Amazon Sales (Power BI)    | ![Amazon](<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300" />) |
-| Sugarcane Analysis (Python)| ![Sugarcane](<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/BlackFridaySales1.png" alt="BlackFridaySales1" width="400" />) |
-| Black Friday EDA           | ![BlackFriday](<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/BlackFridaySales1.png" alt="BlackFridaySales1" width="400" />) |
 
 ---
 
