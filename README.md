@@ -57,7 +57,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
-### 🧁 [Bakery Sales Analysis (Excel)](https://github.com/himanshigautam-rgb/Bakery-Sales-Excel) *(or update link)*
+### 🧁 [Bakery Sales Analysis (Excel)](https://github.com/himanshigautam-rgb/BakerySalesAnalysis_Excel.git)
 
 - 📈 Analyzed daily sales data of a bakery to identify peak hours, popular products, and seasonal trends
 - Used **Pivot Tables**, **VLOOKUP**, and **conditional formatting** for clean insights
