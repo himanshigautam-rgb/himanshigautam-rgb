@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Himanshi Gautam
 
 🎯 Aspiring Data Analyst | Passionate about storytelling through data | Skilled in Power BI, Python, SQL, and Excel  
-📍 B.Tech in Computer Science (2021–2025), MIET, Meerut  
+✅ B.Tech in Computer Science (2021–2025), MIET, Meerut  
 
 
 ---
@@ -27,7 +27,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
-![Amazon Dashboard](images/amazon-dashboard.png)
+#### ![Amazon Dashboard](images/amazon-dashboard.png)
 ---
 
 ### 🌾 [Sugarcane Production Analysis](https://github.com/himanshigautam-rgb/Sugarcane-production-analysis)
@@ -81,14 +81,6 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - ✅ [AWS Cloud Practitioner – Credly Badge](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url)
 - 📊 Data Analytics Course – ICT Academy & Infosys (Aug–Sep 2024)
 - 🤖 AI & Machine Learning Internship – EduSkills (Jul–Sep 2024)
-
----
-
-## 🏅 Certifications
-
-- ✅ [AWS Certified Cloud Practitioner – Credly Badge](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url) (July 2024)
-- 📊 Infosys + ICT Academy Data Analytics Course (Aug–Sep 2024)
-- 🤖 AI/ML Internship – EduSkills (Jul–Sep 2024)
 
 ---
 
