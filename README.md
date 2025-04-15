@@ -124,7 +124,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
 | Category                | Tools & Tech                                             |
 |-------------------------|----------------------------------------------------------|
