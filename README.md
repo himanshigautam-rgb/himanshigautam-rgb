@@ -14,7 +14,7 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 
 ## 🚀 Career Goal
 
-I aim to work as a **Data Analyst or BI Developer**, helping companies make data-driven decisions through actionable dashboards, powerful analysis, and storytelling through data.
+I aim to work as a **Data Analyst**, helping companies make data-driven decisions through actionable dashboards, powerful analysis, and storytelling through data.
 
 ---
 
