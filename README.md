@@ -75,7 +75,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - Wrote SQL queries using **joins**, **aggregations**, and **window functions** to extract KPIs
 - Identified best-selling products, top customer regions, and monthly sales trends
 
-**Tools**: SQL, PostgreSQL / MySQL, Data Cleaning, Analytics Queries
+**Tools**: SQL, PostgreSQL, Data Cleaning, Analytics Queries
 
 ---
 
