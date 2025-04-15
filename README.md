@@ -106,6 +106,14 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - Identified best-selling products, top customer regions, and monthly sales trends
 
 **Tools**: SQL, PostgreSQL, Data Cleaning, Analytics Queries
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Ecommercesales1.png" alt="Ecommercesales1" width="300" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Ecommercesales2.png" alt="Ecommercesales2" width="300"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Ecommercesales3.png" alt="Ecommercesales3" width="300"/>
+</p>
+
+
+
 
 ---
 
