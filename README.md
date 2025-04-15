@@ -60,9 +60,9 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 **Tools**: SQL, Data Cleaning, Joins, Subqueries
 
 <p align="center">
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music1.png" alt="MuiscImg1" width="350" />
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music2.png" alt="MuiscImg2" width="350"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music3.png" alt="MuiscImg3" width="350"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music1.png" alt="MuiscImg1" width="250" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music2.png" alt="MuiscImg2" width="300"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music3.png" alt="MuiscImg3" width="300"/>
 </p>
 
 ---
@@ -73,6 +73,11 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - Used **pandas, NumPy, and scikit-learn** for analysis and prediction.
 
 **Tools**: Python, Pandas, NumPy, Machine Learning
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/BlackFridaySales1.png" alt="BlackFridaySales1" width="400" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/BlackFridaySales2.png" alt="BlackFridaySales2" width="400"/>
+</p>
+
 
 ---
 
