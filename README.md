@@ -28,9 +28,9 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
 <p align="center">
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="450" />
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon2.png" alt="Amazon Dashboard" width="450"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon3.png" alt="Amazon Dashboard" width="450"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon2.png" alt="Amazon Dashboard" width="350"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon3.png" alt="Amazon Dashboard" width="350"/>
 </p>
 
 ---
@@ -90,6 +90,12 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 ![Bakery Dashboard](images/bakery-dashboard.png)
 
 **Tools**: Microsoft Excel, Pivot Tables, Charts, Data Cleaning
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Bakery1.png" alt="BakeryImg1" width="400" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Bakery2.png" alt="BakeryImg2" width="400"/>
+</p>
+
+
 
 ---
 
