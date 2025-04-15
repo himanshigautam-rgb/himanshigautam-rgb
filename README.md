@@ -27,7 +27,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
-#### ![Amazon Dashboard]<img src="images/amazon1.png" alt="Amazon Dashboard" width="600"/>
+#### ![Amazon Dashboard]<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300"/>
 
 
 ---
