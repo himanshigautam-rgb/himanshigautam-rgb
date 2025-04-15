@@ -38,7 +38,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - Focused on identifying top-performing states and yield improvements.
 
 **Tools**: Python, Pandas, Matplotlib, Seaborn
-####  <img src = "https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane1.png"alt="SugarcaneAnalysis" width="400"/>
+####  <img src = "https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane1.png" alt="SugarcaneAnalysis" width="400"/>
 ---
 
 ### 🎵 [Music Store Analysis](https://github.com/himanshigautam-rgb/MusicStoreAnalysis)
