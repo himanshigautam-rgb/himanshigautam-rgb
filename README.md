@@ -120,7 +120,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 ## 🧪 Hackathons & Challenges
 
 - 🎯 **TCS CodeVita 2024** Participant – Solved algorithmic coding problems
-- 🏆 [Quantium Analytics Virtual Internship (Forage)](https://www.theforage.com/) – Customer segmentation & store trial evaluation using R
+- 🏆 **Quantium Analytics Virtual Internship (Forage)** – Customer segmentation & store trial evaluation using R
 
 ---
 
@@ -148,9 +148,9 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 | Project                     | Preview                          |
 |----------------------------|----------------------------------|
-| Amazon Sales (Power BI)    | ![Amazon](images/amazon-dashboard.png) |
-| Sugarcane Analysis (Python)| ![Sugarcane](images/sugarcane-plot.png) |
-| Black Friday EDA           | ![BlackFriday](images/blackfriday-chart.png) |
+| Amazon Sales (Power BI)    | ![Amazon](<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300" />) |
+| Sugarcane Analysis (Python)| ![Sugarcane](<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/BlackFridaySales1.png" alt="BlackFridaySales1" width="400" />) |
+| Black Friday EDA           | ![BlackFriday](<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/BlackFridaySales1.png" alt="BlackFridaySales1" width="400" />) |
 
 ---
 
