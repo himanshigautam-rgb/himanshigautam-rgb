@@ -108,10 +108,8 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 **Tools**: SQL, PostgreSQL, Data Cleaning, Analytics Queries
 <p align="center">
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales3.png" alt="Ecommercesales3" width="300" />
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales2.png
-" alt="Ecommercesales2" width="300"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales1.png
-" alt="Ecommercesales1" width="300"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales2.png" alt="Ecommercesales2" width="300"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales1.png" alt="Ecommercesales1" width="300"/>
 </p>
 
 
