@@ -27,7 +27,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
-#### ![Amazon Dashboard](images/amazon-dashboard.png)
+#### ![Amazon Dashboard](https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png)
 ---
 
 ### 🌾 [Sugarcane Production Analysis](https://github.com/himanshigautam-rgb/Sugarcane-production-analysis)
