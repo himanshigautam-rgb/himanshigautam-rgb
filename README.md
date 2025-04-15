@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Himanshi Gautam
+9# 👋 Hi, I'm Himanshi Gautam
 
 🎯 Aspiring Data Analyst | Passionate about storytelling through data | Skilled in Power BI, Python, SQL, and Excel  
 ✅ B.Tech in Computer Science (2021–2025), MIET, Meerut  
@@ -149,7 +149,7 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 | Category                | Tools & Tech                                             |
 |-------------------------|----------------------------------------------------------|
 | 🐍 Programming           | Python (pandas, NumPy, matplotlib), SQL                  |
-| 📊 Visualization         | Power BI, Tableau, Matplotlib, Seaborn                   |
+| 📊 Visualization         | Power BI, Tableau, Matplotlib,                   |
 | 📁 Data Tools            | Excel (Pivot, VLOOKUP), Power Query                      |
 | ⚙️ Data Techniques        | Data Cleaning, EDA, Regression, Forecasting              |
 | 💡 Soft Skills           | Problem-Solving, Communication, Teamwork, Presentation   |
