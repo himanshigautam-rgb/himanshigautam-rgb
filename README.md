@@ -69,6 +69,16 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ---
 
+### 🛒 [E-commerce Sales Analysis (SQL)](https://github.com/himanshigautam-rgb/Ecommerce-Sales-SQL) *(add your link)*
+
+- 📦 Analyzed online sales data to track performance metrics like revenue, order volume, and customer retention
+- Wrote SQL queries using **joins**, **aggregations**, and **window functions** to extract KPIs
+- Identified best-selling products, top customer regions, and monthly sales trends
+
+**Tools**: SQL, PostgreSQL / MySQL, Data Cleaning, Analytics Queries
+
+---
+
 ## 🧪 Hackathons & Challenges
 
 - 🎯 **TCS CodeVita 2024** Participant – Solved algorithmic coding problems
