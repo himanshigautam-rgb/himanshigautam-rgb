@@ -28,8 +28,8 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
 #### <p align="center">
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon2.png" alt="Amazon Dashboard" width="300"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="300"style="margin-right: 10px;"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon2.png" alt="Amazon Dashboard" width="300"style="margin-right: 10px;"/>
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon3.png" alt="Amazon Dashboard" width="300"/></p>
 ---
 
