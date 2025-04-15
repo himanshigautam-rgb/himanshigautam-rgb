@@ -1,4 +1,4 @@
-9# 👋 Hi, I'm Himanshi Gautam
+# 👋 Hi, I'm Himanshi Gautam
 
 🎯 Aspiring Data Analyst | Passionate about storytelling through data | Skilled in Power BI, Python, SQL, and Excel  
 ✅ B.Tech in Computer Science (2021–2025), MIET, Meerut  
