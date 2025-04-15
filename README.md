@@ -49,7 +49,7 @@ Aspiring Data Analyst | Passionate about finding insights from raw data | Skille
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/himanshi-gautam-a390a922a)
 - [Email](mailto:your.email@example.com)
 
 ---
