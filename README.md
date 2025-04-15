@@ -28,9 +28,9 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 **Tools**: Power BI, DAX, Data Modeling, Data Visualization
 
 <p align="center">
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="350" />
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon2.png" alt="Amazon Dashboard" width="350"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon3.png" alt="Amazon Dashboard" width="350"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon1.png" alt="Amazon Dashboard" width="450" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon2.png" alt="Amazon Dashboard" width="450"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Amazon3.png" alt="Amazon Dashboard" width="450"/>
 </p>
 
 ---
@@ -42,13 +42,15 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 **Tools**: Python, Pandas, Matplotlib, Seaborn
 <p align="center">
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane1.png" alt="SugarcaneAnalysis" width="370" />
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane2.png" alt="SugarcaneAnalysis" width="370"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane3.png" alt="SugarcaneAnalysis" width="370"/>
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane4.png" alt="SugarcaneAnalysis" width="370"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane1.png" alt="SugarcaneAnalysis" width="400" />
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane2.png" alt="SugarcaneAnalysis" width="400"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane3.png" alt="SugarcaneAnalysis" width="400"/>
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Sugarcane4.png" alt="SugarcaneAnalysis" width="400"/>
 </p>
 
+
 ---
+
 
 ### 🎵 [Music Store Analysis](https://github.com/himanshigautam-rgb/MusicStoreAnalysis)
 - Analyzed music store data to uncover top-selling artists and revenue by genre.
@@ -56,6 +58,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 - Suggested improvements for stock and inventory management.
 
 **Tools**: SQL, Data Cleaning, Joins, Subqueries
+
 <p align="center">
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music1.png" alt="MuiscImg1" width="350" />
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Music2.png" alt="MuiscImg2" width="350"/>
