@@ -119,23 +119,23 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ## 🧪 Hackathons & Job Simulations
 
-### 👩‍💻 [TCS CodeVita Season 11 – Global Coding Contest]
+### 👩‍💻 TCS CodeVita Season 11 – Global Coding Contest
 - Participated in one of the world’s largest coding competitions, hosted by TCS
 - Solved real-world algorithmic and programming challenges under time constraints
 - Strengthened problem-solving, logic-building, and data structure implementation skills
 - Gained exposure to competitive programming at a global level, enhancing coding confidence
 
-### 🏢 [Quantium Data Analytics Job Simulation – Forage ]
+### 🏢 Quantium Data Analytics Job Simulation – Forage 
 - Performed customer segmentation and transaction-based analysis to extract business insights
 - Conducted uplift testing by benchmarking control vs trial stores for layout changes
 - Delivered commercial recommendations and reports to support strategic retail decisions
 
-### 📊 [PwC Switzerland Power BI Simulation – Forage ]
+### 📊 PwC Switzerland Power BI Simulation – Forage 
 - Built professional Power BI dashboards to visualize HR KPIs and gender equity metrics
 - Communicated data findings through client-ready emails to engagement partners
 - Applied critical thinking to uncover causes behind executive-level gender imbalance
 
-### 🔍 [Deloitte Australia Data Analytics Simulation – Forage]
+### 🔍 Deloitte Australia Data Analytics Simulation – Forage
 - Conducted forensic data analysis using Excel and Tableau
 - Built dashboards to present findings and classify data for business decisions
 - Simulated real-world client scenarios to demonstrate analytical decision-making
@@ -158,7 +158,7 @@ I aim to work as a **Data Analyst or BI Developer**, helping companies make data
 
 ## 📜 Certifications
 
-- ✅ [AWS Cloud Practitioner – Credly Badge](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url)
+- ✅ [AWS Cloud Practitioner](https://www.credly.com/badges/9c2cf63d-bfc2-45af-8c7e-492a2ee31705/public_url)
 - 📊 Data Analytics Course – ICT Academy & Infosys (Aug–Sep 2024)
 - 🤖 AI & Machine Learning Internship – EduSkills (Jul–Sep 2024)
 
