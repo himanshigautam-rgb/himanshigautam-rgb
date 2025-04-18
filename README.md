@@ -87,7 +87,6 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 - Used **Pivot Tables**, **VLOOKUP**, and **conditional formatting** for clean insights
 - Built a clean dashboard to display total sales, top 5 products, and hourly performance
 
-![Bakery Dashboard](images/bakery-dashboard.png)
 
 **Tools**: Microsoft Excel, Pivot Tables, Charts, Data Cleaning
 <p align="center">
