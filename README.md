@@ -41,7 +41,7 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 - Replaced the masked region with the background to create a real-time cloak effect.
 
 
-**Tools**: Python, Matplotlib, Computer Vision
+**Tools**: Python, Matplotlib, NumPy, OpenCV
 <p align="center">
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Cloak1.png" alt="Invisibility Cloak" width="400" />
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/Cloak2.png" alt="Invisibility Cloak" width="400"/>
