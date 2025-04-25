@@ -35,11 +35,11 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 
 ---
 
-### 🧥 Invisibility Cloak Project
--Developed a computer vision-based invisibility cloak using Python and OpenCV to simulate an invisibility effect.
--Captured the static background and applied color detection to mask the red cloak.
--Replaced the masked region with the background to create a real-time cloak effect.
--Implemented image processing techniques like masking, color space conversion, and bitwise operations.
+### 🧥 [Invisibility Cloak Project](https://
+- Developed a computer vision-based invisibility cloak using Python and OpenCV to simulate an invisibility effect.
+- Captured the static background and applied color detection to mask the red cloak.
+- Replaced the masked region with the background to create a real-time cloak effect.
+- Implemented image processing techniques like masking, color space conversion, and bitwise operations.
 
 **Tools**: Python, OpenCV, NumPy, Computer Vision
 <p align="center">
