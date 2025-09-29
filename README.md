@@ -134,13 +134,22 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 
 ## 🧪 Hackathons & Job Simulations
 
-### 👩‍💻 TCS CodeVita Season 11 – Global Coding Contest
-<p align="center">
-<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales3.png" alt="Ecommercesales3" width="300" /></p>
 ### 🏢 Quantium Data Analytics Job Simulation – Forage
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Certificate/Quantium_page-0001.jpg" alt="Ecommercesales3" width="300" /></p>
+
 ### 📊 PwC Switzerland Power BI Simulation – Forage 
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Certificate/PWC_page-0001.jpg" alt="Ecommercesales3" width="300" /></p>
+
 ### Tata 
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Certificate/Tata_page-0001.jpg" alt="Ecommercesales3" width="300" /></p>
+
 ### 🔍 Deloitte Australia Data Analytics Simulation – Forage
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Certificate/Deloitte_page-0001.jpg" alt="Ecommercesales3" width="300" /></p>
+
 ### Google Data Analytics Professional Certificate – Coursera, June 2025 – July 2025
 ### Data Analytics Course – ICT Academy & Infosys, August 2024 – September 2024
 
