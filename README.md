@@ -133,7 +133,13 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 ---
 
 ## 🧪 Hackathons & Job Simulations
-
+<h2>Job Simulation Certificates</h2>
+<ul>
+  <li><a href="certificates/Deloitte.pdf" target="_blank">Deloitte Australia Data Analytics Job Simulation</a></li>
+  <li><a href="certificates/PwC.pdf" target="_blank">PwC Switzerland Power BI Job Simulation</a></li>
+  <li><a href="certificates/Quantium.pdf" target="_blank">Quantium Data Analytics Job Simulation</a></li>
+  <li><a href="certificates/Tata.pdf" target="_blank">Tata Data Visualisation Job Simulation</a></li>
+</ul>
 ### 👩‍💻 TCS CodeVita Season 11 – Global Coding Contest
 - Participated in one of the world’s largest coding competitions, hosted by TCS
 - Solved real-world algorithmic and programming challenges under time constraints
