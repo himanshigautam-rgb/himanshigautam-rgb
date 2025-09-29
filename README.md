@@ -154,8 +154,6 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 <p align="center">
 <img src="Google.png" alt="Ecommercesales3" width="300" /></p>
 
-### Data Analytics Course – ICT Academy & Infosys, August 2024 – September 2024
-
 ---
 
 ## 🛠 Skills
