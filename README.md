@@ -133,35 +133,16 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 ---
 
 ## 🧪 Hackathons & Job Simulations
-<h2>Job Simulation Certificates</h2>
-<ul>
-  <li><a href="certificates/Deloitte.pdf" target="_blank">Deloitte Australia Data Analytics Job Simulation</a></li>
-  <li><a href="certificates/PwC.pdf" target="_blank">PwC Switzerland Power BI Job Simulation</a></li>
-  <li><a href="certificates/Quantium.pdf" target="_blank">Quantium Data Analytics Job Simulation</a></li>
-  <li><a href="certificates/Tata.pdf" target="_blank">Tata Data Visualisation Job Simulation</a></li>
-</ul>
+
 ### 👩‍💻 TCS CodeVita Season 11 – Global Coding Contest
-- Participated in one of the world’s largest coding competitions, hosted by TCS
-- Solved real-world algorithmic and programming challenges under time constraints
-- Strengthened problem-solving, logic-building, and data structure implementation skills
-- Gained exposure to competitive programming at a global level, enhancing coding confidence
-
-### 🏢 Quantium Data Analytics Job Simulation – Forage 
-- Performed customer segmentation and transaction-based analysis to extract business insights
-- Conducted uplift testing by benchmarking control vs trial stores for layout changes
-- Delivered commercial recommendations and reports to support strategic retail decisions
-
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Images/EcommerceSales3.png" alt="Ecommercesales3" width="300" /></p>
+### 🏢 Quantium Data Analytics Job Simulation – Forage
 ### 📊 PwC Switzerland Power BI Simulation – Forage 
-- Built professional Power BI dashboards to visualize HR KPIs and gender equity metrics
-- Communicated data findings through client-ready emails to engagement partners
-- Applied critical thinking to uncover causes behind executive-level gender imbalance
-
+### Tata 
 ### 🔍 Deloitte Australia Data Analytics Simulation – Forage
-- Conducted forensic data analysis using Excel and Tableau
-- Built dashboards to present findings and classify data for business decisions
-- Simulated real-world client scenarios to demonstrate analytical decision-making
-
-
+### Google Data Analytics Professional Certificate – Coursera, June 2025 – July 2025
+### Data Analytics Course – ICT Academy & Infosys, August 2024 – September 2024
 
 ---
 
