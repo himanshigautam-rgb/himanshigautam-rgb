@@ -151,6 +151,8 @@ I aim to work as a **Data Analyst**, helping companies make data-driven decision
 <img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/blob/main/Certificate/Deloitte_page-0001.jpg" alt="Ecommercesales3" width="300" /></p>
 
 ### Google Data Analytics Professional Certificate – Coursera, June 2025 – July 2025
+<p align="center">
+<img src="https://github.com/himanshigautam-rgb/himanshigautam-rgb/Google.jpg" alt="Ecommercesales3" width="300" /></p>
 ### Data Analytics Course – ICT Academy & Infosys, August 2024 – September 2024
 
 ---
